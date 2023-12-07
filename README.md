@@ -15,12 +15,10 @@ Machine Learning Model 1:
     Accuracy: 94.4%
 
     Precision:
-
     Healthy Loans- 1.00
     High-Risk Loans- .87
 
     Recall:
-
     Healthy Loans- 1.00
     High-Risk Loans- .89
 
@@ -29,12 +27,10 @@ Machine Learning Model 2:
     Accuracy: 99.6%
 
     Precision:
-
     Healthy Loans- 1.00
     High-Risk Loans- .87
     
     Recall:
-
     Healthy Loans- 1.00
     High-Risk Loans- 1.00
 
